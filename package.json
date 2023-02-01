@@ -12,12 +12,9 @@
     "@next/font": "13.1.2",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.2",
-    "mix-css-color": "^0.2.0",
     "next": "13.1.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-smooth-corners": "^1.0.4",
-    "react-squircle": "^0.0.8",
     "sharp": "^0.31.3"
   },
   "devDependencies": {
